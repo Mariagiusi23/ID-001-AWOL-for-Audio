@@ -1,4 +1,3 @@
-# ID-001-AWOL-for-Audio
 # AWOL for Audio — Language-to-Sound Generation via Parametric Synthesis
 
 This project implements an adaptation of the AWOL framework to the audio domain, enabling controllable sound generation from natural language using CLAP embeddings and FM synthesis.
