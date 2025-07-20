@@ -17,4 +17,4 @@ The final report is available in `report/main.pdf`.
 - FM synthesis implemented in PyTorch
 
 ## 🎓 Context
-Developed as part of the ID-001 project for the DLAI/ML 2024–2025 course at Sapienza University.
+Developed as part of 
