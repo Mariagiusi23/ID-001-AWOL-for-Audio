@@ -7,8 +7,6 @@ The final report is available in `report/main.pdf`.
 
 ## 📁 Structure
 - `notebook/`: Jupyter notebook with the full pipeline
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mariagiusi23/ID-001-AWOL-for-Audio/blob/main/notebook/01_baseline_clap_embedding_to_fm_synthesis.ipynb)
-
 - `images/`: generated spectrograms and plots
 - `audio/`: synthesized audio examples (optional)
 - `report/`: PDF report for submission
