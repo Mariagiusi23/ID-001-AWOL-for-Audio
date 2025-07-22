@@ -66,10 +66,6 @@ The full project report can be found here:
 
 ### 📚 References
 
-## 📚 References
-
-## 📚 References
-
 - [AWOL: Analysis Without Synthesis using Language (2024)](https://arxiv.org/abs/2404.03042)  
 - [CLAP: Contrastive Language-Audio Pretraining](https://github.com/LAION-AI/CLAP)  
 - [DDSP: Differentiable Digital Signal Processing](https://magenta.tensorflow.org/ddsp)  
