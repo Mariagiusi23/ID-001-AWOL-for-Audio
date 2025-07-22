@@ -25,12 +25,12 @@ All notebooks are in the `notebook/` folder and runnable on Google Colab.
 
 | Notebook                                  | Description                                                                | Open in Colab |
 |------------------------------------------|----------------------------------------------------------------------------|----------------|
-| `01_BaselineClapEmbeddingToFmSynthesis.ipynb` | Baseline pipeline CLAP → MLP → FM synth (no training).                    | [▶️ Open](...) |
-| `02_AWOL_SupervisedMapping.ipynb`        | Supervised training of the MLP model on a manual dataset.                 | [▶️ Open](...) |
-| `03_AWOL_RealNvpMapping.ipynb`           | RealNVP implementation for semantic → audio parameter mapping.           | [▶️ Open](...) |
-| `04_AWOL_LatentSpaceExploration.ipynb`   | Latent space interpolation, baseline comparison, Gradio demo.            | [▶️ Open](...) |
+| `01_BaselineClapEmbeddingToFmSynthesis.ipynb` | Baseline pipeline CLAP → MLP → FM synth (no training).                    | [▶️ Open](https://colab.research.google.com/github/Mariagiusi23/ID-001-AWOL-for-Audio/blob/main/notebook/01_BaselineClapEmbeddingToFmSynthesis.ipynb) |
+| `02_AWOL_SupervisedMapping.ipynb`        | Supervised training of the MLP model on a manual dataset.                 | [▶️ Open](https://colab.research.google.com/github/Mariagiusi23/ID-001-AWOL-for-Audio/blob/main/notebook/02_AWOL_SupervisedMapping.ipynb) |
+| `03_AWOL_RealNvpMapping.ipynb`           | RealNVP implementation for semantic → audio parameter mapping.           | [▶️ Open](https://colab.research.google.com/github/Mariagiusi23/ID-001-AWOL-for-Audio/blob/main/notebook/03_AWOL_RealnvpMapping.ipynb) |
+| `04_AWOL_LatentSpaceExploration.ipynb`   | Latent space interpolation, baseline comparison, Gradio demo.            | [▶️ Open](https://colab.research.google.com/github/Mariagiusi23/ID-001-AWOL-for-Audio/blob/main/notebook/04_AWOL_LatentSpaceExploration.ipynb) |
 
-> Replace `(...)` with actual Colab links if you want them clickable from the README.
+
 
 ---
 
