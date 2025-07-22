@@ -74,7 +74,7 @@ The full project report can be found here:
 - [CLAP: Contrastive Language-Audio Pretraining](https://github.com/LAION-AI/CLAP)  
 - [DDSP: Differentiable Digital Signal Processing](https://magenta.tensorflow.org/ddsp)  
 - [RealNVP: Density Estimation using Real-valued Non-Volume Preserving Transformations](https://arxiv.org/abs/1605.08803)  
-- [FM Synthesis (Yamaha DX7 overview)](https://www.soundonsound.com/techniques/fm-synthesis-explained) *(background technique)*
+
 
 
 
