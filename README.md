@@ -19,7 +19,7 @@ Translate the AWOL framework from 3D geometry to sound generation by:
 
 ---
 
-## 🧱 Repository Structure
+## 📁 Repository Structure
 
 All notebooks are in the `notebook/` folder and runnable on Google Colab.
 
@@ -47,7 +47,7 @@ You can run the project in a new environment or in Google Colab.
    
 ---
 
-### 📈 Results
+## 📈 Results
 
 CLAP embeddings successfully drive an FM synthesizer with coarse semantic control.
 MLP mapping provides reasonable generalization on simple prompts.
@@ -56,7 +56,7 @@ Gradio demo allows interactive exploration of sound generation.
 
 ---
 
-### 📄 Report
+## 📄 Report
 
 The full project report can be found here:
 📘 [machine.pdf (open)](https://github.com/Mariagiusi23/ID-001-AWOL-for-Audio/raw/main/report/Machine.pdf)
@@ -64,7 +64,7 @@ The full project report can be found here:
 
 ---
 
-### 📚 References
+## 📚 References
 
 - [AWOL: Analysis Without Synthesis using Language (2024)](https://arxiv.org/abs/2404.03042)  
 - [CLAP: Contrastive Language-Audio Pretraining](https://github.com/LAION-AI/CLAP)  
