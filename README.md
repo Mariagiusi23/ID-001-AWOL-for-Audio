@@ -59,7 +59,8 @@ Gradio demo allows interactive exploration of sound generation.
 ### 📄 Report
 
 The full project report can be found here:
-📘 [machine.pdf (open)](https://github.com/Mariagiusi23/ID-001-AWOL-for-Audio/raw/main/report/machine.pdf)
+📘 [machine.pdf (open)](https://github.com/Mariagiusi23/ID-001-AWOL-for-Audio/raw/main/report/Machine.pdf)
+
 
 ---
 
