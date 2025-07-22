@@ -45,4 +45,23 @@ You can run the project in a new environment or in Google Colab.
    git clone https://github.com/Mariagiusi23/ID-001-AWOL-for-Audio.git
    cd ID-001-AWOL-for-Audio
 
+##📈 Results
+
+CLAP embeddings successfully drive an FM synthesizer with coarse semantic control.
+MLP mapping provides reasonable generalization on simple prompts.
+RealNVP improves extrapolation and smooth interpolation in latent space.
+Gradio demo allows interactive exploration of sound generation.
+
+##📄 Report
+
+The full project report can be found here:
+📘 report/machine.pdf
+
+##📚 References
+
+AWOL paper
+DDSP (Tensorflow)
+CLAP: Contrastive Language-Audio Pretraining
+
+
 
