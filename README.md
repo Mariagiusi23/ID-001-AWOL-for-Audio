@@ -44,8 +44,10 @@ You can run the project in a new environment or in Google Colab.
    ```bash
    git clone https://github.com/Mariagiusi23/ID-001-AWOL-for-Audio.git
    cd ID-001-AWOL-for-Audio
+   pip install -r requirements.txt
    
 ---
+
 
 ## 📈 Results
 
