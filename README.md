@@ -50,14 +50,27 @@ You can run the project in a new environment or in Google Colab.
    pip install -r requirements.txt
    
 ---
+###🔄 Reproducibility
+To reproduce experiments end-to-end:
+Run the baseline notebook (01) for CLAP→MLP mapping.
+Train and evaluate supervised mapping (02).
+Explore RealNVP flow model (03).
+Perform latent space interpolation/extrapolation and demo (04).
+Checkpoints and audio samples are provided in the assets/ folder.
 
+---
 
-## 📈 Results
+## 📊 Results
 
 CLAP embeddings successfully drive an FM synthesizer with coarse semantic control.
 MLP mapping provides reasonable generalization on simple prompts.
 RealNVP improves extrapolation and smooth interpolation in latent space.
 Gradio demo allows interactive exploration of sound generation.
+
+| Model        | Avg. CLAP Cosine ↑ | Notes                      |
+| ------------ | -----------------: | -------------------------- |
+| MLP Baseline |               0.34 | simple supervised mapping  |
+| RealNVP      |               0.49 | better control & semantics |
 
 ---
 
