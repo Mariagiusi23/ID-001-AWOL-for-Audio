@@ -70,6 +70,11 @@ Gradio demo allows interactive exploration of sound generation.
 | MLP Baseline |               0.34 | simple supervised mapping  |
 | RealNVP      |               0.49 | better control & semantics |
 
+
+> 🔎 Note: Full set of results (figures, spectrograms, and audio samples) are available directly in the notebooks.  
+> Below we provide only a minimal demo for quick reference.
+
+
 ---
 
 ## 📄 Report
