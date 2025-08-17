@@ -1,11 +1,11 @@
 # 🎧 AWOL for Audio — Language-to-Sound Generation via Parametric Synthesis
 
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 **DLAI 2024/2025 Project — ID001**  
 **Author**: Mariagiusi Nicodemo  
 *Based on CLAP + RealNVP + FM Synthesis*
-
-![Python](https://img.shields.io/badge/python-3.11-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 This project explores generating sound from text descriptions by adapting the AWOL (Analysis Without synthesis using Language) framework from 3D to the audio domain. The system learns to map natural language prompts to the parameters of a procedural FM synthesizer using MLP and RealNVP models.
 
