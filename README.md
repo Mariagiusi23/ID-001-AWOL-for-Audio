@@ -72,7 +72,7 @@ Gradio demo allows interactive exploration of sound generation.
 
 
 > 🔎 Note: Full set of results (figures, spectrograms, and audio samples) are available directly in the notebooks.  
-> Below we provide only a minimal demo for quick reference.
+> Below I provide only a minimal demo for quick reference.
 
 
 ---
