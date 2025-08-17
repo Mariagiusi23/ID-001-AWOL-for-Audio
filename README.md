@@ -56,7 +56,6 @@ Run the baseline notebook (01) for CLAP→MLP mapping.\
 Train and evaluate supervised mapping (02).\
 Explore RealNVP flow model (03).\
 Perform latent space interpolation/extrapolation and demo (04).\
-Checkpoints and audio samples are provided in the assets/ folder.\
 
 ---
 
