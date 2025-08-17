@@ -50,7 +50,7 @@ You can run the project in a new environment or in Google Colab.
    pip install -r requirements.txt
    
 ---
-###🔄 Reproducibility
+## 🔄 Reproducibility
 To reproduce experiments end-to-end:
 Run the baseline notebook (01) for CLAP→MLP mapping.
 Train and evaluate supervised mapping (02).
