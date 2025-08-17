@@ -82,7 +82,7 @@ Gradio demo allows interactive exploration of sound generation.
 Below is a minimal demo figure.  
 👉 Full set of figures, spectrograms, and audio samples are provided directly inside the notebooks.
 
-![CLAP Embeddings](assets/img/CLAP Embeddings.png)
+![CLAP Embeddings](assets/img/CLAP_Embeddings.png)
 
 *Example of CLAP embeddings projected with t-SNE: semantically related prompts cluster together (e.g., “soft bell” and “gentle whisper”).*
 
