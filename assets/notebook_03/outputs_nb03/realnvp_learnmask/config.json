@@ -1,0 +1,8 @@
+{
+  "dim": 4,
+  "hidden": 128,
+  "num_layers": 6,
+  "learnable_mask": true,
+  "hard": false,
+  "tau": 10.0
+}
