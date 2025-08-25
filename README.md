@@ -106,7 +106,8 @@ Locally, Gradio will open a web interface at `http://127.0.0.1:7860`.
 ### Example from Notebook 04
 Below is an example of **interpolated parameters (A → B)** obtained during latent space exploration:
 
-![Interpolated parameters](./assets/notebook_04/outputs_nb04/interpolation.png)
+![Interpolated parameters](./assets/notebook_04/outputs_nb04/figs/params_vs_alpha.png)
+
 ---
 ---
 
