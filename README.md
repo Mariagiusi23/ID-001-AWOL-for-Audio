@@ -3,11 +3,14 @@
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-**MLAI 2024/2025 Project — ID001**  
 **Author**: Mariagiusi Nicodemo  
-*Based on CLAP + RealNVP + FM Synthesis*
+**Email**: nicodemo.2114171@studenti.uniroma1.it  
+**Course**: Machine Learning (a.y. 2024/2025) — Sapienza University of Rome
 
-This project explores generating sound from text descriptions by adapting the AWOL (Analysis Without synthesis using Language) framework from 3D to the audio domain. The system learns to map natural language prompts to the parameters of a procedural FM synthesizer using MLP and RealNVP models.
+This project explores the mapping between **natural language descriptions** and **interpretable FM-synthesis controls**, inspired by the **AWOL paradigm**.  
+The pipeline evolves from a **baseline MLP** to a **regularized MLP**, then to a **conditional RealNVP flow**, and finally includes **latent space exploration** via interpolation and extrapolation of CLAP text embeddings.  
+
+The main goal is to preserve **transparency** and **parameter interpretability** while ensuring smooth and coherent sound transitions.
 
 ---
 
@@ -33,6 +36,7 @@ All notebooks are in the `notebook/` folder and runnable on Google Colab.
 | `03_AWOL_RealNvpMapping.ipynb`           | RealNVP implementation for semantic → audio parameter mapping.           | [▶️ Open](https://colab.research.google.com/github/Mariagiusi23/ID-001-AWOL-for-Audio/blob/main/notebook/03_AWOL_RealnvpMapping.ipynb) |
 | `04_AWOL_LatentSpaceExploration.ipynb`   | Latent space interpolation, baseline comparison, Gradio demo.            | [▶️ Open](https://colab.research.google.com/github/Mariagiusi23/ID-001-AWOL-for-Audio/blob/main/notebook/04_AWOL_LatentSpaceExploration.ipynb) |
 
+Each `outputs_nbXX` folder contains audio samples (`.wav`), plots, and model checkpoints (`.pt`) produced by the corresponding notebook.
 
 
 ---
