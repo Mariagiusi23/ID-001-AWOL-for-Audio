@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-**DLAI 2024/2025 Project — ID001**  
+**MLAI 2024/2025 Project — ID001**  
 **Author**: Mariagiusi Nicodemo  
 *Based on CLAP + RealNVP + FM Synthesis*
 
