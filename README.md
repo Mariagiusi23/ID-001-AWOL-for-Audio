@@ -67,10 +67,10 @@ Additional qualitative evaluation was carried out on **unseen prompts** and **la
 ### Parameter prediction (RMSE on test set)
 | Parameter         | RMSE  |
 |-------------------|-------|
-| Amplitude         | 0.068 |
-| Carrier Frequency | 0.114 |
-| Ratio             | 0.180 |
-| Modulation Index  | 0.098 |
+| Amplitude         | 0.080 |
+| Carrier Frequency | 0.152 |
+| Ratio             | 0.159 |
+| Modulation Index  | 0.094 |
 
 Amplitude, carrier frequency, and modulation index were predicted with low errors (<0.12), while the frequency ratio proved more difficult (≈0.18), reflecting its key role in FM timbre.
 
